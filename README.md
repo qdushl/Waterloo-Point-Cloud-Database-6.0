@@ -2,8 +2,12 @@
 
 This database was created by Honglei Su ([suhonglei@qdu.edu.cn](mailto:suhonglei@qdu.edu.cn)) and Juncheng Long ([jeasonloong@gmail.com](mailto:jeasonloong@gmail.com)) from Qingdao University in 2024. We welcome everyone to carry on the test and propose the modification opinion. If you use our database [WPC6.0](https://drive.google.com/drive/folders/1ih50PQgqZDK7wyDGAzBp-u-Kg-PL7IZi?usp=drive_link) (a Google account required) in your paper, please cite our paper:
 
-鈥?
-
+@article{long2024perceptual,  
+  title={Perceptual Quality Assessment of Trisoup-Lifting Encoded 3D Point Clouds},  
+  author={Long, Juncheng and Su, Honglei and Liu, Qi and Yuan, Hui and Gao, Wei and Song, Jiarun and Wang, Zhou},  
+  journal={arXiv preprint arXiv:2410.06689},  
+  year={2024}  
+}
 
 The WPC6.0 database is composed of 400 Trisoup-Lifting encoded point clouds and corresponding bitstreams whose original point clouds (Bag, Banana, Biscuits, Cake, Cauliflower, Flowerpot, House, Litchi, Mushroom, Ping-pong_bat, Puer_tea, Pumpkin, Ship, Statue, Stone, Tool_box) are from the [WPC database](https://github.com/qdushl/Waterloo-Point-Cloud-Database). Each original point cloud is encoded by 4 geometry parameters tNSL {3, 4, 5, 6} and 5 texture parameters QP {28, 34, 40, 46, 51} at G-PCC Trisoup-Lifting mode. The rest of the encoding parameters are set with default values. The subjective test settings and raw data processing are the same as those in the WPC database.
 
