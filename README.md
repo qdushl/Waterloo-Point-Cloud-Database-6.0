@@ -1,6 +1,6 @@
 # Waterloo-Point-Cloud-Database-6.0
 
-This database was created by Honglei Su ([suhonglei@qdu.edu.cn](mailto:suhonglei@qdu.edu.cn)) and Juncheng Long ([jeasonloong@gmail.com](mailto: jeasonloong@gmail.com)) from Qingdao University in 2024. We welcome everyone to carry on the test and propose the modification opinion. If you use our database [WPC6.0](https://drive.google.com/drive/folders/1ih50PQgqZDK7wyDGAzBp-u-Kg-PL7IZi?usp=drive_link) (a Google account required) in your paper, please cite our paper:
+This database was created by Honglei Su ([suhonglei@qdu.edu.cn](mailto:suhonglei@qdu.edu.cn)) and Juncheng Long ([jeasonloong@gmail.com](mailto: jeasonloong@gmail.com) from Qingdao University in 2024. We welcome everyone to carry on the test and propose the modification opinion. If you use our database [WPC6.0](https://drive.google.com/drive/folders/1ih50PQgqZDK7wyDGAzBp-u-Kg-PL7IZi?usp=drive_link) (a Google account required) in your paper, please cite our paper:
 
 @article{long2024perceptual,  
   title={Perceptual Quality Assessment of Trisoup-Lifting Encoded 3D Point Clouds},  
